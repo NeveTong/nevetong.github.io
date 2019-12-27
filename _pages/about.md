@@ -30,4 +30,7 @@ Talks
 Awards
 ======
 
-* Graduate Fellowship, Penn State.
+* Distinguished Graduate Fellowship, Penn State, 2018-2020.
+* Outstanding Graduate, Beijing Municipal Education Commission, 2018.
+* Mitacs (Canada) and China Scholarship Council Research Scholarship, 2017.
+* Scholarships for Outstanding Academic Performance, Renmin University of China, 2015-2018.
