@@ -18,5 +18,7 @@ Publications
 Teaching
 ======
 
+* 2019 Summer: STAT 480 (Introduction to SAS)
+
 Talks
 ======
