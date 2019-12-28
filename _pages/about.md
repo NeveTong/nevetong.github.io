@@ -12,7 +12,7 @@ Education
 ======
 
 * Ph.D. candidate in Statistics, Penn State University, 2018-present.
-* B.S.  in Mathematics, Renmin University of China, 2018.
+* B.S.  in Mathematics, Renmin University of China, 2014-2018.
 
 Publications
 ======
