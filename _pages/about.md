@@ -1,12 +1,15 @@
 ---
 permalink: /
-title: "Education"
-excerpt: "Education"
+title: " "
+excerpt: " "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Education
+======
 
 * Ph.D. candidate in Statistics, Penn State University, 2018-present.
 * B.S.  in Mathematics, Renmin University of China, 2018
