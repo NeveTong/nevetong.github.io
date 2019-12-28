@@ -1,16 +1,15 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About Me"
+title: "Education"
+excerpt: "Education"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a second-year Ph.D. student in the Statistics department at Pennsylvania State University. My research advisor is [Prof. Runze Li](http://personal.psu.edu/ril4/).
-
-I obtained my BS degree in Mathematics from Renmin University of China.
+* Ph.D. candidate in Statistics, Penn State University, 2018-present.
+* B.S.  in Mathematics, Renmin University of China, 2018
 
 Publications
 ======
