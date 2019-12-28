@@ -9,7 +9,6 @@
 locale                   : "en-US"
 title                    : "Welcome to Zhaoxue (Neve) Tong's Homepage"
 title_separator          : ""
-logo                     : "/images/snowlogo.jpg?raw=true"
 name                     : &name "Zhaoxue Tong"
 description              : &description "PhD student at PSU"
 url                      : https://nevetong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
