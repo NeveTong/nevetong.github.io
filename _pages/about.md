@@ -19,7 +19,7 @@ Education
 Teaching
 ======
 
-* 2019 Summer: STAT 480 (Introduction to SAS).
+* 2019 Summer & 2020 Summer: STAT 480 (Introduction to SAS).
 
 
 Awards
