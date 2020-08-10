@@ -14,7 +14,7 @@ Education
 
 * Ph.D. candidate in Statistics, Penn State University, 2018-present.
 * B.S.  in Mathematics, Renmin University of China, 2014-2018.
-* B.A.  in Finance, Renmin University of China, 2015-2018.
+* B.A.  in Finance, Renmin University of China, 2014-2018.
 
 
 Teaching
