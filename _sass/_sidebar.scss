@@ -98,34 +98,41 @@
   padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
+  text-align: center;
 
   @include breakpoint($large) {
     display: block;
     width: 100%;
     padding-left: 0;
     padding-right: 0;
+    text-align: center;
   }
 }
 
 .author__name {
   margin: 0;
+  text-align: center;
 
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 10px;
+    text-align: center;
   }
 }
 .sidebar .author__name {
   font-family: $sans-serif-narrow;
   font-size: $type-size-5;
+  text-align: center;
 }
 
 .author__bio {
   margin: 0;
+  text-align: center;
 
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 20px;
+    text-align: center;
   }
 }
 
