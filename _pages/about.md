@@ -28,8 +28,8 @@ Research
 Publications
 ======
 
-* **Tong, Z.**, Cai, Z., Yang, S. and Li, R. (2022). [Model-free conditional feature screening with FDR control.](https://doi.org/10.1080/01621459.2022.2063130) *Journal of American Statistical Association*
-* Buu, A., **Tong, Z.**, Cai, Z., Li, R., Yang, J.J., Jorenby, D.E., and Piper, M.E. (In press). Subtypes of dual users of combustible and electronic cigarettes: longitudinal changes in product use and dependence symptomatology. *Nicotine & Tobacco Research*
+* **Tong, Z.**, Cai, Z., Yang, S. and Li, R. (2022). [Model-free conditional feature screening with FDR control.](https://doi.org/10.1080/01621459.2022.2063130) *Journal of American Statistical Association*.
+* Buu, A., **Tong, Z.**, Cai, Z., Li, R., Yang, J.J., Jorenby, D.E., and Piper, M.E. (In press). Subtypes of dual users of combustible and electronic cigarettes: longitudinal changes in product use and dependence symptomatology. *Nicotine & Tobacco Research*.
 
 
 Teaching
