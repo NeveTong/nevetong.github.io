@@ -20,8 +20,8 @@ Education
 Research
 ======
 
-* High-dimensional statistical learning
-* Robust statistics
+* High-dimensional statistical learning.
+* Robust statistics.
 * Statistical applications in healthcare, social behavioral science, and other domains.
 
 
