@@ -35,7 +35,7 @@ Publications
   [Subtypes of dual users of combustible and electronic cigarettes: longitudinal changes in product use and dependence symptomatology.](https://academic.oup.com/ntr/advance-article/doi/10.1093/ntr/ntac151/6615357) \
   *Nicotine & Tobacco Research*.
 * Yang, J.J., Lin, H.C., Ou, T.S., **Tong, Z.**, Li, R., Piper, M.E., & Buu, A. (In press). \
-  The situational contexts and subjective effects of co-use of electronic cigarettes and alcohol among college students: an ecological momentary assessment (EMA) study. \
+  [The situational contexts and subjective effects of co-use of electronic cigarettes and alcohol among college students: an ecological momentary assessment (EMA) study.](https://www.sciencedirect.com/science/article/abs/pii/S0376871622003313) \
   *Drug and Alcohol Dependence*.
 
 
