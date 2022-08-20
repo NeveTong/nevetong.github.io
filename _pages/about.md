@@ -24,15 +24,19 @@ redirect_from:
 
 ## Publications
 
-* **Tong, Z.**, Cai, Z., Yang, S. and Li, R. (2022). \
-  [Model-free conditional feature screening with FDR control.](https://doi.org/10.1080/01621459.2022.2063130) \
-  *Journal of American Statistical Association*.
-* Buu, A., **Tong, Z.**, Cai, Z., Li, R., Yang, J.J., Jorenby, D.E., and Piper, M.E. (2022). \
-  [Subtypes of dual users of combustible and electronic cigarettes: longitudinal changes in product use and dependence symptomatology.](https://academic.oup.com/ntr/advance-article/doi/10.1093/ntr/ntac151/6615357) \
-  *Nicotine & Tobacco Research*.
-* Yang, J.J., Lin, H.C., Ou, T.S., **Tong, Z.**, Li, R., Piper, M.E., & Buu, A. (2022). \
-  [The situational contexts and subjective effects of co-use of electronic cigarettes and alcohol among college students: an ecological momentary assessment (EMA) study.](https://www.sciencedirect.com/science/article/abs/pii/S0376871622003313) \
-  *Drug and Alcohol Dependence*.
+* **Model-free conditional feature screening with FDR control** \
+  **Tong, Z.**, Cai, Z., Yang, S. and Li, R. \
+  *Journal of American Statistical Association, 2022* \
+  |[paper](https://doi.org/10.1080/01621459.2022.2063130)|
+* **Subtypes of dual users of combustible and electronic cigarettes: longitudinal changes in product use and dependence symptomatology** \
+  Buu, A., **Tong, Z.**, Cai, Z., Li, R., Yang, J.J., Jorenby, D.E. and Piper, M.E.  \
+  *Nicotine & Tobacco Research, 2022* \
+  |[paper](https://academic.oup.com/ntr/advance-article/doi/10.1093/ntr/ntac151/6615357)|
+* **The situational contexts and subjective effects of co-use of electronic cigarettes and alcohol among college students: an ecological momentary assessment (EMA) study** \
+  Yang, J.J., Lin, H.C., Ou, T.S., **Tong, Z.**, Li, R., Piper, M.E. and Buu, A. \
+  *Drug and Alcohol Dependence, 2022* \
+  |[paper](https://www.sciencedirect.com/science/article/abs/pii/S0376871622003313)|
+
 
 
 ## Teaching
