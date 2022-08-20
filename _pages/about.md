@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 ## Education
 
 * Ph.D. candidate in Statistics, Penn State University, 2018-present.
