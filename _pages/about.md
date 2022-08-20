@@ -8,27 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-
-Education
-======
+## Education
 
 * Ph.D. candidate in Statistics, Penn State University, 2018-present.
 * B.S.  in Mathematics, Renmin University of China, 2014-2018.
-* B.A.  in Finance, Renmin University of China, 2014-2018.
+* B.A.  in Finance, Renmin University of China, 2014-2018. 
 
-<p>&nbsp;</p>
 
-Research
-======
+## Research
 
 * High-dimensional statistical learning.
 * Robust statistics.
 * Statistical applications in healthcare, social behavioral science, and other domains.
 
-<p>&nbsp;</p>
 
-Publications
-======
+## Publications
 
 * **Tong, Z.**, Cai, Z., Yang, S. and Li, R. (2022). \
   [Model-free conditional feature screening with FDR control.](https://doi.org/10.1080/01621459.2022.2063130) \
@@ -40,17 +34,13 @@ Publications
   [The situational contexts and subjective effects of co-use of electronic cigarettes and alcohol among college students: an ecological momentary assessment (EMA) study.](https://www.sciencedirect.com/science/article/abs/pii/S0376871622003313) \
   *Drug and Alcohol Dependence*.
 
-<p>&nbsp;</p>
 
-Teaching
-======
+## Teaching
 
 * 2019 Summer & 2020 Summer: STAT 480 (Introduction to SAS).
 
-<p>&nbsp;</p>
 
-Awards
-======
+## Awards
 
 * JSM Travel Award, Nonparametric Section, American Statistical Association, 2021.
 * Distinguished Graduate Fellowship, Penn State, 2018-2020.
