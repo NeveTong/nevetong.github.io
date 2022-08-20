@@ -16,6 +16,7 @@ Education
 * B.S.  in Mathematics, Renmin University of China, 2014-2018.
 * B.A.  in Finance, Renmin University of China, 2014-2018.
 
+<p>&nbsp;</p>
 
 Research
 ======
@@ -24,6 +25,7 @@ Research
 * Robust statistics.
 * Statistical applications in healthcare, social behavioral science, and other domains.
 
+<p>&nbsp;</p>
 
 Publications
 ======
@@ -38,12 +40,14 @@ Publications
   [The situational contexts and subjective effects of co-use of electronic cigarettes and alcohol among college students: an ecological momentary assessment (EMA) study.](https://www.sciencedirect.com/science/article/abs/pii/S0376871622003313) \
   *Drug and Alcohol Dependence*.
 
+<p>&nbsp;</p>
 
 Teaching
 ======
 
 * 2019 Summer & 2020 Summer: STAT 480 (Introduction to SAS).
 
+<p>&nbsp;</p>
 
 Awards
 ======
