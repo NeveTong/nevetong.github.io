@@ -28,7 +28,7 @@ redirect_from:
 * **Model-free conditional feature screening with FDR control** \
   **Tong, Z.**, Cai, Z., Yang, S. and Li, R. \
   *Journal of American Statistical Association, 2022* \
-  |[paper](https://doi.org/10.1080/01621459.2022.2063130)|
+  |[paper](https://doi.org/10.1080/01621459.2022.2063130)||[code](https://github.com/NeveTong/CIS)|
 * **Subtypes of dual users of combustible and electronic cigarettes: longitudinal changes in product use and dependence symptomatology** \
   Buu, A., **Tong, Z.**, Cai, Z., Li, R., Yang, J.J., Jorenby, D.E. and Piper, M.E.  \
   *Nicotine & Tobacco Research, 2022* \
