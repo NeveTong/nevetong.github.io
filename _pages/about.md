@@ -48,7 +48,7 @@ redirect_from:
 ## Awards
 
 * IMS Hannan Graduate Student Travel Award, Institute of Mathematical Statistics, 2023.
-* J. Keith Ord Scholarship in Statistics, Department of Statistics, Penn State University, 2022.
+* J. Keith Ord Scholarship in Statistics, Penn State University, 2022.
 * JSM Travel Award, Nonparametric Section, American Statistical Association, 2021.
 * Distinguished Graduate Fellowship, Penn State University, 2018-2020.
 * Outstanding Graduate, Beijing Municipal Education Commission, 2018.
