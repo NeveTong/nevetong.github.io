@@ -54,6 +54,10 @@
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
   }
+  
+  ul {
+    margin-block-end: 2em;
+  }
 
   p, li, dl {
     font-size: 1em;
