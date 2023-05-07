@@ -9,21 +9,21 @@ redirect_from:
 ---
 
 
-## Education
+# Education
 
 * Ph.D. candidate in Statistics, Penn State University, 2018-present.
 * B.S.  in Mathematics, Renmin University of China, 2014-2018.
 * B.A.  in Finance, Renmin University of China, 2014-2018. 
 
 
-## Research
+# Research
 
 * High-dimensional statistical learning.
 * Robust statistics.
 * Statistical applications in healthcare, social behavioral science, and other domains.
 
 
-## Publications
+# Publications
 
 * **Model-Free Conditional Feature Screening With FDR Control** \
   **Tong, Z.**, Cai, Z., Yang, S. and Li, R. \
@@ -40,12 +40,12 @@ redirect_from:
 
 
 
-## Teaching
+# Teaching
 
 * 2019 Summer & 2020 Summer: STAT 480 (Introduction to SAS).
 
 
-## Awards
+# Awards
 
 * IMS Hannan Graduate Student Travel Award, Institute of Mathematical Statistics, 2023.
 * J. Keith Ord Scholarship in Statistics, Penn State University, 2022.
