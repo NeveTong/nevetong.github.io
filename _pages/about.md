@@ -25,15 +25,15 @@ redirect_from:
 
 ## Publications
 
-* **Model-free conditional feature screening with FDR control** \
+* **Model-Free Conditional Feature Screening With FDR Control** \
   **Tong, Z.**, Cai, Z., Yang, S. and Li, R. \
   *Journal of American Statistical Association, 2022* \
   |[paper](https://doi.org/10.1080/01621459.2022.2063130)||[code](https://github.com/NeveTong/CIS)|
-* **Subtypes of dual users of combustible and electronic cigarettes: longitudinal changes in product use and dependence symptomatology** \
+* **Subtypes of Dual Users of Combustible and Electronic Cigarettes: Longitudinal Changes in Product Use and Dependence Symptomatology** \
   Buu, A., **Tong, Z.**, Cai, Z., Li, R., Yang, J.J., Jorenby, D.E. and Piper, M.E.  \
   *Nicotine & Tobacco Research, 2022* \
   |[paper](https://academic.oup.com/ntr/advance-article/doi/10.1093/ntr/ntac151/6615357)|
-* **The situational contexts and subjective effects of co-use of electronic cigarettes and alcohol among college students: an ecological momentary assessment (EMA) study** \
+* **The Situational Contexts and Subjective Effects of Co-use of Electronic Cigarettes and Alcohol Among College Students: An Ecological Momentary Assessment (EMA) Study** \
   Yang, J.J., Lin, H.C., Ou, T.S., **Tong, Z.**, Li, R., Piper, M.E. and Buu, A. \
   *Drug and Alcohol Dependence, 2022* \
   |[paper](https://www.sciencedirect.com/science/article/abs/pii/S0376871622003313)|
