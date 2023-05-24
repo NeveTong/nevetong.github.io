@@ -39,7 +39,6 @@ redirect_from:
   |[paper](https://www.sciencedirect.com/science/article/abs/pii/S0376871622003313)|
 
 
-
 # Teaching
 
 * 2019 Summer & 2020 Summer: STAT 480 (Introduction to SAS).
