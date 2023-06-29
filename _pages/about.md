@@ -25,14 +25,18 @@ redirect_from:
 
 # Publications
 
+* **Dependence Motives and Use Contexts That Predicted Smoking Cessation and Vaping Cessation: A Two-Year Longitudinal Study With 13 Waves** \
+  Nam, J.K., Piper, M.E., **Tong, Z.**, Li, R., Yang, J.J., Jorenby, D.E. and Buu, A. \
+  *Drug and Alcohol Dependence, 2023* \
+  |[paper](https://doi.org/10.1016/j.drugalcdep.2023.110871)|
 * **Model-Free Conditional Feature Screening With FDR Control** \
   **Tong, Z.**, Cai, Z., Yang, S. and Li, R. \
   *Journal of American Statistical Association, 2022* \
   |[paper](https://doi.org/10.1080/01621459.2022.2063130)||[code](https://github.com/NeveTong/CIS)|
-* **Subtypes of Dual Users of Combustible and Electronic Cigarettes: Longitudinal Changes in Product Use and Dependence Symptomatology** \
+<!--* **Subtypes of Dual Users of Combustible and Electronic Cigarettes: Longitudinal Changes in Product Use and Dependence Symptomatology** \
   Buu, A., **Tong, Z.**, Cai, Z., Li, R., Yang, J.J., Jorenby, D.E. and Piper, M.E.  \
   *Nicotine & Tobacco Research, 2022* \
-  |[paper](https://academic.oup.com/ntr/advance-article/doi/10.1093/ntr/ntac151/6615357)|
+  |[paper](https://academic.oup.com/ntr/advance-article/doi/10.1093/ntr/ntac151/6615357)|-->
 * **The Situational Contexts and Subjective Effects of Co-use of Electronic Cigarettes and Alcohol Among College Students: An Ecological Momentary Assessment (EMA) Study** \
   Yang, J.J., Lin, H.C., Ou, T.S., **Tong, Z.**, Li, R., Piper, M.E. and Buu, A. \
   *Drug and Alcohol Dependence, 2022* \
