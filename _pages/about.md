@@ -13,7 +13,7 @@ redirect_from:
 
 * Ph.D. in Statistics, Pennsylvania State University, 2018 - 2023.
 * B.S. in Mathematics, Renmin University of China, 2014 - 2018.
-* B.A. in Finance, Renmin University of China, 2014 - 2018. 
+* B.Ec. in Finance, Renmin University of China, 2014 - 2018. 
 
 
 # Research
