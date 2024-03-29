@@ -18,7 +18,8 @@ redirect_from:
 
 # Research
 
-* High-dimensional statistical learning.
+* Large-scale/high-dimensional statistical learning.
+* Longitudinal data analysis.
 * Robust statistics.
 * Statistical applications in healthcare, social behavioral science, and other domains.
 
