@@ -51,6 +51,8 @@ redirect_from:
 
 # Awards
 
+* AWM-NSF Travel Grant, Association for Women in Mathematics, 2024.
+* First Year Assistant Professor Award, Florida State University, 2024.
 * IMS Hannan Graduate Student Travel Award, Institute of Mathematical Statistics, 2023.
 * J. Keith Ord Scholarship in Statistics, Penn State University, 2022.
 * JSM Travel Award, Nonparametric Section, American Statistical Association, 2021.
