@@ -46,8 +46,8 @@ redirect_from:
 
 # Teaching
 
-* STA 3032 (Applied Statistics for Engineers and Scientists), Spring 2024 & Spring 2025.
-* STA 4442 (Introduction to Probability), Fall 2023 & Spring 2025.
+* STAT 3032 (Applied Statistics for Engineers and Scientists), Spring 2024 & Spring 2025.
+* STAT 4442 (Introduction to Probability), Fall 2023 & Spring 2025.
 * STAT 480 (Introduction to SAS), Summer 2019 & Summer 2020.
 
 
